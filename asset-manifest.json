@@ -1,0 +1,15 @@
+{
+  "files": {
+    "main.css": "/monster-clash/static/css/main.8a935685.chunk.css",
+    "main.js": "/monster-clash/static/js/main.0ae76113.chunk.js",
+    "main.js.map": "/monster-clash/static/js/main.0ae76113.chunk.js.map",
+    "runtime~main.js": "/monster-clash/static/js/runtime~main.eb6bcb7a.js",
+    "runtime~main.js.map": "/monster-clash/static/js/runtime~main.eb6bcb7a.js.map",
+    "static/js/2.98dcc9dd.chunk.js": "/monster-clash/static/js/2.98dcc9dd.chunk.js",
+    "static/js/2.98dcc9dd.chunk.js.map": "/monster-clash/static/js/2.98dcc9dd.chunk.js.map",
+    "index.html": "/monster-clash/index.html",
+    "precache-manifest.7325e41d72b3043a04b9c2352e79369f.js": "/monster-clash/precache-manifest.7325e41d72b3043a04b9c2352e79369f.js",
+    "service-worker.js": "/monster-clash/service-worker.js",
+    "static/css/main.8a935685.chunk.css.map": "/monster-clash/static/css/main.8a935685.chunk.css.map"
+  }
+}
