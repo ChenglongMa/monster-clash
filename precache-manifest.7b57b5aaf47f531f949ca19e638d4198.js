@@ -1,19 +1,19 @@
 self.__precacheManifest = (self.__precacheManifest || []).concat([
   {
-    "revision": "fb6bc812ce1586b159045a78976f6931",
+    "revision": "495aacc53870324236308bb4493e613b",
     "url": "/monster-clash/index.html"
   },
   {
-    "revision": "4be3ace8973d62cde3fb",
+    "revision": "ac873d4e87f74a9fe66b",
     "url": "/monster-clash/static/css/main.8a935685.chunk.css"
   },
   {
-    "revision": "58f496bc1ce27350f0eb",
-    "url": "/monster-clash/static/js/2.98dcc9dd.chunk.js"
+    "revision": "685d0c597e8419129599",
+    "url": "/monster-clash/static/js/2.0e3f6a1a.chunk.js"
   },
   {
-    "revision": "4be3ace8973d62cde3fb",
-    "url": "/monster-clash/static/js/main.0ae76113.chunk.js"
+    "revision": "ac873d4e87f74a9fe66b",
+    "url": "/monster-clash/static/js/main.d49c826f.chunk.js"
   },
   {
     "revision": "49cfa0b4c07652709136",
