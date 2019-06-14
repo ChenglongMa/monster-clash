@@ -1,0 +1,23 @@
+.Cell {
+    width: 50px;
+    height: 50px;
+    margin: 2px;
+    background: white;
+    float: left;
+}
+
+.Cell-disabled {
+    background: white;
+}
+
+.Cell-neutral {
+    background: gray;
+}
+
+.Cell-ok {
+    background: blue;
+}
+
+.Cell-ror {
+    background: orange;
+}
