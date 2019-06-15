@@ -1,15 +1,22 @@
 {
   "files": {
-    "main.css": "/monster-clash/static/css/main.8a935685.chunk.css",
-    "main.js": "/monster-clash/static/js/main.d49c826f.chunk.js",
-    "main.js.map": "/monster-clash/static/js/main.d49c826f.chunk.js.map",
+    "main.css": "/monster-clash/static/css/main.30cbfa13.chunk.css",
+    "main.js": "/monster-clash/static/js/main.7f8cb82c.chunk.js",
+    "main.js.map": "/monster-clash/static/js/main.7f8cb82c.chunk.js.map",
     "runtime~main.js": "/monster-clash/static/js/runtime~main.eb6bcb7a.js",
     "runtime~main.js.map": "/monster-clash/static/js/runtime~main.eb6bcb7a.js.map",
-    "static/js/2.0e3f6a1a.chunk.js": "/monster-clash/static/js/2.0e3f6a1a.chunk.js",
-    "static/js/2.0e3f6a1a.chunk.js.map": "/monster-clash/static/js/2.0e3f6a1a.chunk.js.map",
+    "static/js/2.9eff3bda.chunk.js": "/monster-clash/static/js/2.9eff3bda.chunk.js",
+    "static/js/2.9eff3bda.chunk.js.map": "/monster-clash/static/js/2.9eff3bda.chunk.js.map",
     "index.html": "/monster-clash/index.html",
-    "precache-manifest.7b57b5aaf47f531f949ca19e638d4198.js": "/monster-clash/precache-manifest.7b57b5aaf47f531f949ca19e638d4198.js",
+    "precache-manifest.dd78a85820f510171c09312f9d08fd8f.js": "/monster-clash/precache-manifest.dd78a85820f510171c09312f9d08fd8f.js",
     "service-worker.js": "/monster-clash/service-worker.js",
-    "static/css/main.8a935685.chunk.css.map": "/monster-clash/static/css/main.8a935685.chunk.css.map"
+    "static/css/main.30cbfa13.chunk.css.map": "/monster-clash/static/css/main.30cbfa13.chunk.css.map",
+    "static/media/0.png": "/monster-clash/static/media/0.b31fa0aa.png",
+    "static/media/1.png": "/monster-clash/static/media/1.fb2ee1f7.png",
+    "static/media/2.png": "/monster-clash/static/media/2.a98d569a.png",
+    "static/media/3.png": "/monster-clash/static/media/3.407d0d09.png",
+    "static/media/4.png": "/monster-clash/static/media/4.c664d00e.png",
+    "static/media/5.png": "/monster-clash/static/media/5.fa024edf.png",
+    "static/media/Piece.css": "/monster-clash/static/media/james_p_sullivan.5d04dde0.png"
   }
 }
