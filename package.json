@@ -5,6 +5,8 @@
   "dependencies": {
     "react": "^16.8.6",
     "react-center": "^1.1.1",
+    "react-dnd": "^8.0.0",
+    "react-dnd-html5-backend": "^8.0.0",
     "react-dom": "^16.8.6",
     "react-redux": "^7.0.3",
     "react-scripts": "3.0.1",
@@ -13,7 +15,7 @@
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
-    "test": "react-scripts test",
+    "test": "react-scripts src/test",
     "eject": "react-scripts eject",
     "predeploy": "npm run build",
     "deploy": "gh-pages -d build"

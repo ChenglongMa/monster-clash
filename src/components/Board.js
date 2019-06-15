@@ -1,6 +1,7 @@
 import React from "react";
 import {between} from "../utils/NumberUtil";
 import Cell, {Role} from "./Cell";
+import Piece from "./Piece";
 
 class Board extends React.Component {
 
@@ -63,16 +64,19 @@ class Board extends React.Component {
                 } else {
                     role = Role.DISABLED;
                 }
-                cellsInRows.push(<Cell
-                    key={[x, y]}
-                    // x={x}
-                    // y={y}
-                    isHome={isHome}
-                    role={role}
-                    style={
-                        {background: color}
-                    }
-                />);
+                cellsInRows.push(
+                    <Cell
+                        key={[x, y]}
+                        // x={x}
+                        // y={y}
+                        isHome={isHome}
+                        role={role}
+                        style={
+                            {background: color}
+                        }
+                    >
+                        <Piece></Piece>
+                    </Cell>);
             }
             cells.push(
                 <div className='board-row' key={y}>

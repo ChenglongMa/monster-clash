@@ -1,6 +1,6 @@
 import {DiceActions} from "../actions/diceAction";
 
-const nextDice = (state = 0, action) => {
+const nextDice = (state = 5, action) => {
     switch (action.type) {
         // not used
         case DiceActions.ROLLING:

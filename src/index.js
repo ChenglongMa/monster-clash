@@ -6,7 +6,6 @@ import thunk from 'redux-thunk';
 import {composeWithDevTools} from 'redux-devtools-extension';
 import reducers from './reducers';
 import Game from './components/Game';
-import App from "./components/App";
 
 
 // function Square(props) {
@@ -178,7 +177,7 @@ const store = createStore(
 
 render(
     <Provider store={store}>
-        <App/>
+        {/*<App/>*/}
         <Game/>
     </Provider>,
     document.getElementById('root')
