@@ -8,7 +8,12 @@ const mapStateToProps = state => ({
 });
 
 const mapDispatchToProps = dispatch => ({
-    roll: (prev) => dispatch(setValue(nextRandomValue(prev)))
+    // TODO: bad practice
+    roll: (prev) => {
+        const next = nextRandomValue(prev);
+        dispatch(setValue(next));
+        return next;
+    }
 });
 
 export default connect(

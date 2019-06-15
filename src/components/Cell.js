@@ -1,10 +1,8 @@
 import React from 'react';
 import '../css/Cell.css'
-import Piece from "./Piece";
 import {DropTarget} from "react-dnd";
 
 class Cell extends React.Component {
-
 
     render() {
 

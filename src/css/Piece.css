@@ -2,7 +2,7 @@
     width: 50px;
     height: 50px;
     margin: 1px;
-    background: greenyellow;
     float: left;
     border-radius: 25px;
+    background: url("../images/monsters/oozmakappa/james_p_sullivan.png");
 }

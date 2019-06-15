@@ -6,6 +6,17 @@ import '../index.css';
 import RollDice from "../containers/RollDice";
 import {DndProvider} from "react-dnd";
 import HTML5Backend from 'react-dnd-html5-backend';
+import Piece from "./Piece";
+
+const pieces = new Map([
+    [[-6, 2].toString(), <Piece></Piece>],
+    [[-6, 3].toString(), <Piece></Piece>],
+    [[-6, 4].toString(), <Piece></Piece>],
+    [[6, 2].toString(), <Piece></Piece>],
+    [[6, 3].toString(), <Piece></Piece>],
+    [[6, 4].toString(), <Piece></Piece>],
+
+]);
 
 class Game extends React.Component {
 
@@ -23,6 +34,7 @@ class Game extends React.Component {
                                 maxY={6}
                                 cornerX={4}
                                 cornerY={4}
+                                pieces={pieces}
                             />
                         </DndProvider>
                         <RollDice/>
