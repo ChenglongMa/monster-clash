@@ -47,4 +47,6 @@ ol, ul {
 
 .game-info {
     margin-left: 20px;
+    width: 300px;
+    background: #61dafb;
 }

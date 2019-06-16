@@ -8,11 +8,9 @@ const mapStateToProps = state => ({
 });
 
 const mapDispatchToProps = dispatch => ({
-    // TODO: bad practice
     roll: (prev) => {
         const next = nextRandomValue(prev);
         dispatch(setValue(next));
-        return next;
     }
 });
 

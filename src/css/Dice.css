@@ -1,3 +1,3 @@
-#Dice {
-
+#Dice:active {
+    content: url("../images/dice/rolling/rolling_dice.gif");
 }

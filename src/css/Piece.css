@@ -4,5 +4,10 @@
     margin: 1px;
     float: left;
     border-radius: 25px;
-    background: url("../images/monsters/oozmakappa/james_p_sullivan.png");
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    -moz-background-size: 100% 100%;
+    background-image: url("../images/monsters/oozmakappa/james_p_sullivan.png");
+    cursor: move;
+    /*background: brown;*/
 }
